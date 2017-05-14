@@ -1,4 +1,4 @@
-package Resources;
+package Model;
 
 import java.util.Arrays;
 

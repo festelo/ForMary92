@@ -1,6 +1,6 @@
 package Helpers.Clients.SingleClient;
 
-import Resources.Client;
+import Model.Client;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;

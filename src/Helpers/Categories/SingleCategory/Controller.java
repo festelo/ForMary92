@@ -1,7 +1,6 @@
 package Helpers.Categories.SingleCategory;
 
-import Resources.Category;
-import Resources.Client;
+import Model.Category;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;

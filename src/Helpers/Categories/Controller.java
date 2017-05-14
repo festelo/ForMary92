@@ -2,10 +2,8 @@ package Helpers.Categories;
 
 import DB.Database;
 import Helpers.Categories.SingleCategory.SingleCategory;
-import Resources.Category;
-import Resources.Client;
+import Model.Category;
 import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TableView;

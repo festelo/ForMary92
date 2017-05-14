@@ -2,8 +2,7 @@ package Helpers.Couriers;
 
 import DB.Database;
 import Helpers.Couriers.SingleCourier.SingleCourier;
-import Resources.Client;
-import Resources.Courier;
+import Model.Courier;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

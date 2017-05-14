@@ -1,6 +1,6 @@
 package Helpers.Couriers.SingleCourier;
 
-import Resources.Courier;
+import Model.Courier;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;

@@ -1,7 +1,6 @@
 package Helpers.Products.SingleProduct;
 
-import Resources.Category;
-import Resources.Product;
+import Model.Product;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;

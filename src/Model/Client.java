@@ -1,4 +1,4 @@
-package Resources;
+package Model;
 
 /**
  * Created by eee on 14.05.2017.

@@ -2,8 +2,7 @@ package Helpers.Products;
 
 import DB.Database;
 import Helpers.Products.SingleProduct.SingleProduct;
-import Resources.Category;
-import Resources.Product;
+import Model.Product;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

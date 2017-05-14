@@ -1,6 +1,6 @@
 package DB;
 
-import Resources.*;
+import Model.*;
 
 import java.sql.*;
 import java.util.ArrayList;

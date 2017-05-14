@@ -1,7 +1,6 @@
 package Helpers.Categories.SingleCategory;
 
-import Resources.Category;
-import Resources.Client;
+import Model.Category;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;

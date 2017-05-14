@@ -2,8 +2,7 @@ package Helpers.Clients;
 
 import DB.Database;
 import Helpers.Clients.SingleClient.SingleClient;
-import Resources.Category;
-import Resources.Client;
+import Model.Client;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;

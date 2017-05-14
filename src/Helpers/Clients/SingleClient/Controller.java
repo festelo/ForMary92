@@ -1,6 +1,6 @@
 package Helpers.Clients.SingleClient;
 
-import Resources.Client;
+import Model.Client;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;

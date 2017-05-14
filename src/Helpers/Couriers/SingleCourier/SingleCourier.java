@@ -1,6 +1,6 @@
 package Helpers.Couriers.SingleCourier;
 
-import Resources.Courier;
+import Model.Courier;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;

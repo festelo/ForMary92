@@ -1,10 +1,10 @@
 package Helpers.Products.SingleProduct;
 
 import DB.Database;
-import Resources.Category;
-import Resources.Extensions;
-import Resources.Measure;
-import Resources.Product;
+import Model.Category;
+import Model.Extensions;
+import Model.Measure;
+import Model.Product;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
